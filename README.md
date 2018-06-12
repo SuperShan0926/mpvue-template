@@ -1,4 +1,4 @@
-mpvue-template
+### mpvue-template
 > A Mpvue template for mini app
 
 ## Build Setup
