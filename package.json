@@ -2,7 +2,7 @@
   "name": "fxxkproject",
   "version": "1.0.0",
   "description": "mpvue project",
-  "author": "{{author}}",
+  "author": "shan",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
