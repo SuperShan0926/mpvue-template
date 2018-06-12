@@ -1,6 +1,5 @@
-# show-temp
-
-> A Mpvue project
+mpvue-template
+> A Mpvue template for mini app
 
 ## Build Setup
 
